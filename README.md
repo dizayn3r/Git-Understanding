@@ -5,4 +5,4 @@
 | Kyle | 28 |
 | sally | 45 |
 
-add table inside the 
+add table inside the markdown file.
